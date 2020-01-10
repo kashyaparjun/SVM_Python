@@ -1,5 +1,5 @@
 # SVM_Python 
-#### Using SMO algorithm
+#### A binary SVM classifier using SMO algorithm
 
 Author: Arjun Kashyap
 <br>
