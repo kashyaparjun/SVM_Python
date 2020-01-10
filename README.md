@@ -4,6 +4,9 @@
 Author: Arjun Kashyap
 <br>
 January 2020
+<br>
+<br>
+Check `svm.py` for code and `test_svm.py` for test cases
 
 ## Usage
 `options = {
