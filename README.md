@@ -20,7 +20,7 @@ January 2020
 `svm.train(data, labels, options)`
 
 For training with different parameters:
-Quoting [@karpathy] (https://github.com/karpathy)
+Quoting [@karpathy](https://github.com/karpathy)
 <br>
 "
 Rules of thumb: You almost always want to try the linear SVM first and see how that works. You want to play around with different values of C from about 1e-2 to 1e5, as every dataset is different. C=1 is usually a fairly reasonable value. Roughly, C is the cost to the SVM when it mis-classifies one of your training examples. If you increase it, the SVM will try very hard to fit all your data, which may be good if you strongly trust your data. In practice, you usually don't want it too high though. If linear kernel doesn't work very well, try the rbf kernel. You will have to try different values of both C and just as crucially the sigma for the gaussian kernel.
@@ -29,11 +29,11 @@ The linear SVM should be much faster than SVM with any other kernel. If you want
 "
 
 # Credits
-[Fast training support vector classifiers] (https://papers.nips.cc/paper/1855-fast-training-of-support-vector-classifiers.pdf)
+[Fast training support vector classifiers](https://papers.nips.cc/paper/1855-fast-training-of-support-vector-classifiers.pdf)
 <br>
-[Simplified SMO] (http://math.unt.edu/~hsp0009/smo.pdf)
+[Simplified SMO](http://math.unt.edu/~hsp0009/smo.pdf)
 <br>
-This repo is the Python implementation similar to Andrej Karpathy's (https://github.com/karpathy/svmjs)
+This repo is the Python implementation of to Andrej Karpathy's [repo](https://github.com/karpathy/svmjs)
 
 # Licence
 MIT
