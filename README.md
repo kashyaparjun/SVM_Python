@@ -1,9 +1,12 @@
 # SVM_Python 
-#### Using SMO algorithm
+#### A binary SVM classifier using SMO algorithm
 
 Author: Arjun Kashyap
 <br>
 January 2020
+<br>
+<br>
+Check `svm.py` for code and `test_svm.py` for test cases
 
 ## Files
 1. svm.py -- contains the SVM code
