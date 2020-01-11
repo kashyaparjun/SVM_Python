@@ -5,6 +5,13 @@ Author: Arjun Kashyap
 <br>
 January 2020
 
+## Files
+1. svm.py -- contains the SVM code
+2. test_svm.py -- contains tests.
+
+## SMO simplified algorithm
+![Simplified SMO algorithm](https://github.com/kashyaparjun/SVM_Python/blob/master/smo.png)
+
 ## Usage
 `options = {
     "kernel": "rbf",
